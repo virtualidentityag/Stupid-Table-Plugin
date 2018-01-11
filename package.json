@@ -1,0 +1,22 @@
+{
+  "name": "stupid-table-plugin",
+  "version": "1.0.0",
+  "description": "Stupid jQuery Table Sort",
+  "main": "stupidtable.js",
+  "directories": {
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virtualidentityag/Stupid-Table-Plugin.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/virtualidentityag/Stupid-Table-Plugin/issues"
+  },
+  "homepage": "https://github.com/virtualidentityag/Stupid-Table-Plugin#readme"
+}
